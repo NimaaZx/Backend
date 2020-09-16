@@ -1,0 +1,27 @@
+{
+  "name": "js-jwt-auth-mongodb",
+  "version": "1.0.0",
+  "description": "Node.js + MongoDB: JWT Authentication & Authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: "
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "authentication",
+    "mongodb"
+  ],
+  "author": "nima",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "greenlock-express": "^4.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.15"
+  }
+}
